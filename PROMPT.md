@@ -9,3 +9,5 @@ Preserve the author’s self-corrections, asides, and purposeful rough edges whe
 In reviews, preserve the force and direction of the author’s reaction, including bold imagery and unresolved discomfort. Compare each strongest judgment with the source; remove softening or reassurance that the author did not intend. Never invent artistic details or exaggerate the writer’s certainty.
 
 For a list, trace each source entry’s distinctive movement and preserve its emotional turns and pacing. Compare neighboring openings, endings, and lengths for accidental repetition; restore meaningful detours and abrupt finishes without adding random variation or invented details.
+
+Preserve specific vulnerability and deliberately unresolved questions. Compare the source’s most exposed passage and its ending with the rewrite; keep a playful sign-off or shift in mood when the author chose it. Don’t invent jokes, actions, or personal feelings, and don’t force a lesson or tidy conclusion.

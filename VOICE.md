@@ -6,7 +6,7 @@ Write to a person, not an audience segment. Understand what they're trying to do
 
 When a user invokes ViiberrVoice, treat this guide and their corrections as instructions for the whole piece, including the opening, transitions, practical information, and ending. Read the guide before drafting; don't substitute a familiar content template because it feels faster. The user's specific instructions and any higher-priority requirements take precedence. Preserve the purpose, facts, and requested format.
 
-Before returning the writing, compare the actual draft with the user's request and this guide. Look for clipped groups of generic examples, questions left unanswered, repeated cautions, forced punctuation, and transitions that sound like a template. Check that each scenario given space actually develops, and that the structure suits the requested format. Rewrite any passage that misses the mark, then check again. Don't call it finished simply because you included the right punctuation or removed headings. When the user corrects your writing, apply that correction across the whole draft and later work in the conversation, rather than fixing only the quoted sentence.
+Before returning the writing, compare the actual draft with the user's request and this guide. Look for clipped groups of generic examples, questions posed without purpose, repeated cautions, forced punctuation, and transitions that sound like a template. Preserve questions the author intentionally leaves unresolved. Check that each scenario given space actually develops, and that the structure suits the requested format. Rewrite any passage that misses the mark, then check again. Don't call it finished simply because you included the right punctuation or removed headings. When the user corrects your writing, apply that correction across the whole draft and later work in the conversation, rather than fixing only the quoted sentence.
 
 ## Write what actually happens
 
@@ -58,7 +58,7 @@ Specific reactions carry more life than generic praise. Explain what caught the 
 
 Make room for a thought to change direction. Someone can recognize what works, admit where they contributed to a problem, and still criticize the problem itself. State the tension in concrete terms rather than smoothing it into a bland compromise. Separate what is observed from what is inferred, especially when discussing motives or accusations; passion is not a substitute for evidence.
 
-Speak to the reader as someone present in the conversation. An occasional question, aside, or candid admission can invite them into the thought, but follow a question with an answer or a genuine exploration. Don't use questions as a repeated hook or invent a personal confession to make prose sound authentic.
+Speak to the reader as someone present in the conversation. An occasional question, aside, or candid admission can invite them into the thought. Answer or explore a question when the writer intends to; preserve an intentionally unresolved question. Don't use questions as a repeated hook or invent a personal confession to make prose sound authentic.
 
 ## Keep the author's edge
 
@@ -81,6 +81,14 @@ When editing someone's draft, notice where their personality appears in the move
 Flow does not require every transition to be smooth. The reader should be able to follow why one thought leads to the next, even when the writer interrupts themselves, changes their mind, or lands on a short sentence. Keep purposeful rough edges; repair a jump only when it obscures the connection or changes the meaning. Don't force a paragraph to follow a template just to make its structure look tidy.
 
 Before returning an edit, compare one or two lively passages with the source. Did a blunt reaction become polite? Did an unexpected aside disappear? Did the sentence lengths become uniform? Restore the author's own energy where it was lost. Keep corrections to spelling or grammar proportional to the user's request, and don't invent verbal quirks, personal details, or emotions to simulate spontaneity.
+
+## Protect vulnerability without tying it up
+
+Before editing personal writing, identify the moment the author exposes a fear, contradiction, or uncertainty they might prefer not to admit. Preserve its specificity and emotional weight. Don't replace a painful question with a generic summary of anxiety, insert reassurance the author didn't offer, or turn an unresolved struggle into a lesson. Keep the author's own degree of uncertainty; never add a diagnosis or intensify a claim beyond the source.
+
+Let humor and vulnerability coexist when the source does. Don't remove an uncomfortable admission just because a lighter moment follows, and don't add a punchline to relieve the reader. When the author moves from a serious thought into a playful sign-off or ordinary action, preserve that change of register and its intent. The ending doesn't need to restate the thesis or prove that the writer learned a lesson.
+
+Before finishing, compare the source's most vulnerable passage and its last lines with the rewrite. Ask whether the reader can still recognize the specific fear, the unanswered questions, and the author's chosen mood at the end. Restore what's been diluted. Preserve exact source wording where appropriate and authorized; otherwise paraphrase without inventing an action, experience, catchphrase, or joke and attributing it to the author. Keep illustrative examples clearly separate from real personal accounts.
 
 ## Keep experience anchored to its source
 
