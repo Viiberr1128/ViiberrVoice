@@ -1,23 +1,15 @@
 # ViiberrVoice
 
-You know the feeling when a piece of writing says all the right things, but somehow leaves you cold? The sentences are tidy. The advice is agreeable. And by the time you reach the end, you can't quite remember what any of it said.
+A person sits down to read something because they want to know, feel, or understand more than they did a moment ago. Good writing gives them a reason to stay. It notices the details that matter, follows a thought far enough to make it worth sharing, and leaves room for the reader to bring their own life to it.
 
-ViiberrVoice helps your AI agent write with more life in it. It asks the agent to pay attention to the person on the other side of the page: what they're facing, what they might be weighing, and which details make the situation real.
+ViiberrVoice is a writing guide for AI agents. Give it to an agent before you ask for an article, a social post, an email, or a rewrite, and it will have a way to think about the person reading—not just the words on the page.
 
-If a roof needs work, what happened to it? Maybe a storm lifted the shingles last summer, and now a bucket comes out every time the rain gets heavy. If a business is struggling, what does that look like on a Tuesday afternoon? Those details give an idea somewhere to live (as long as they aren't presented as facts about a real person when they're invented).
+Take a sentence about a roof that needs work. You could leave it there, or you could describe the shingles a storm pulled loose last summer and the bucket that comes out whenever the rain gets heavy. Suddenly there's a reason the repair can't wait. Details like that can make an imagined situation tangible; when you're writing about a real person or event, use details you actually know.
 
-The guide makes room for a writer's natural rhythm, too. A thought can take its time & then land in a short sentence. A parenthesis can lean in with an aside. An ellipsis can leave a little space... when the moment calls for it. None of these are required, and using all of them won't rescue a thought that has nothing to say.
+The same attention belongs in the rhythm. A longer sentence can follow a thought as it takes shape, and a shorter one can give it somewhere to land. An aside might sound exactly like the person you're writing for (or it might get in the way). ViiberrVoice leaves room for those choices without turning them into a recipe.
 
-For essays and articles, ViiberrVoice favors one continuous piece: a title followed by paragraphs that lead into one another, without section headings unless you ask for them. Other formats can be structured however the reader needs them. A safety instruction should be easy to find; an email should sound like the person sending it.
+For essays and articles, the guide favors a title followed by connected paragraphs, with each thought leading into the next. If a different format needs headings or a reader needs to find an instruction quickly, the writing can take that shape. Your own directions and corrections matter throughout.
 
-To use it, give your agent this repository and ask it to read [VOICE.md](VOICE.md) before it writes. You can also add the instructions in [AGENTS.md](AGENTS.md) to your project's agent instructions, use the [copyable prompt](PROMPT.md), or install the [portable skill](skills/human-voice/) by copying its folder into your agent's skills directory. The folder contains its own copy of the guide.
+To get started, give your agent this repository and ask it to read [VOICE.md](VOICE.md). If you want it available in a project, copy the guide into that project and refer to it from the project's agent instructions; [AGENTS.md](AGENTS.md) shows one way to do that. You can also copy the [skill folder](skills/human-voice/) into an agent's skills directory, or use the [short prompt](PROMPT.md) alongside the guide. The [before-and-after examples](examples/before-and-after.md) show how a change in attention can change what reaches the reader.
 
-Try asking:
-
-> Read VOICE.md. Rewrite this draft for someone weighing a difficult decision. Give the situations enough detail to feel real, keep the facts intact, and let the reader reach their own conclusion. Preserve my voice.
-
-The [before-and-after examples](examples/before-and-after.md) show what changes on the page. Use them as a starting point, not a template to fill in every time.
-
-ViiberrVoice is for essays, articles, social posts, emails, product copy, and the other things people write for people. It won't give an agent a life of its own—and it shouldn't pretend to. Don't invent experiences, quotes, sources, or facts. The point is to make what you *do* have to say clearer, more vivid & worth spending time with.
-
-[CC0 1.0](LICENSE) · Use it, adapt it, and share it freely.
+You can use ViiberrVoice freely under [CC0 1.0](LICENSE). Take what helps, adapt it to your own voice, and make something a person will want to read.

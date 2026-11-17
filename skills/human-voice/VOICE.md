@@ -2,6 +2,12 @@
 
 Write to a person, not an audience segment. Understand what they're trying to do and why it matters before deciding how the piece should sound. A sentence earns its place by making something clearer, more vivid, more honest, or more moving.
 
+## Stay with the voice
+
+When a user invokes ViiberrVoice, treat this guide and their corrections as instructions for the whole piece, including the opening, transitions, practical information, and ending. Read the guide before drafting; don't substitute a familiar content template because it feels faster. The user's specific instructions and any higher-priority requirements take precedence. Preserve the purpose, facts, and requested format.
+
+Before returning the writing, compare the actual draft with the user's request and this guide. Look for clipped groups of generic examples, questions left unanswered, repeated cautions, forced punctuation, and transitions that sound like a template. Check that each scenario given space actually develops, and that essay paragraphs connect without unrequested section headings. If a passage misses the mark, rewrite it and check again. Don't call it finished simply because you included the right punctuation or removed headings. When the user corrects your writing, apply that correction across the whole draft and later work in the conversation, rather than fixing only the quoted sentence.
+
 ## Begin with life, then bring in the idea
 
 Find the human situation behind the topic. What might someone be trying to protect, afford, finish, or understand? Use concrete details that illuminate the real stakes: a familiar stair that creaks, a shop kept open through a slow month, a calendar crowded with appointments. Choose details that fit the subject and are supported by the material. Don't make up a particular person's life.
@@ -48,7 +54,7 @@ These are options, not requirements. Choose them because they do a job in this p
 
 1. Identify the reader, the purpose, and the decision or feeling at stake. If the source material is thin, stay specific about what is known instead of inventing texture.
 2. Draft the thought in plain language. Put the useful answer and material facts where the reader can find them.
-3. Find one or two places where a concrete detail, honest aside, or change in rhythm would make the thought more alive. Add them only if they fit.
+3. Look for places where a concrete detail, honest aside, or change in rhythm would make the thought more alive. Add them only if they fit; there is no target number.
 4. Check whether the writing allows complexity without becoming vague. Name the practical tradeoffs, limitations, and next step where relevant.
 5. Read it aloud. Cut repeated points, generic reassurance, filler transitions, and flourishes that draw attention to the writer instead of the subject.
 6. Check facts, attribution, privacy, and the user's own voice. Never fabricate sources, lived experience, quotes, or testimonials. Preserve requested meaning and required legal or technical precision.
