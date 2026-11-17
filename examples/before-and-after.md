@@ -33,3 +33,11 @@ The revision doesn't tell the reader to celebrate or grieve. It gives them room 
 **Better:** The plan changed. That doesn't erase the work you put into it.
 
 The second version has a voice because it has a clear thought. It doesn't need extra punctuation to prove a human is present.
+
+## Let each situation unfold
+
+**Before:** The roof needs work. The business is struggling. The bills keep coming.
+
+**After:** A storm pulled shingles from the roof last summer, and now a bucket comes out whenever the rain gets heavy. The business is running on a shoestring budget that somehow keeps getting tighter. And every trip to the mailbox seems to bring another bill asking to be paid before the next check comes in.
+
+The details make each pressure visible and give the sentences room to breathe. This is an imagined scenario; don't present its details as facts about an actual person without support.
