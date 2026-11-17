@@ -60,6 +60,20 @@ Make room for a thought to change direction. Someone can recognize what works, a
 
 Speak to the reader as someone present in the conversation. An occasional question, aside, or candid admission can invite them into the thought, but follow a question with an answer or a genuine exploration. Don't use questions as a repeated hook or invent a personal confession to make prose sound authentic.
 
+## Keep the author's edge
+
+Before rewriting, notice the author's actual stance and emotional intensity. Keep their frustration, humor, bluntness, enthusiasm, and level of certainty when those are present in the source and fit the requested task. Don't replace a sharp criticism with a polite preference or turn an angry observation into a neutral summary simply to sound agreeable. Preserve a qualified claim as qualified; intensity does not justify exaggerating evidence. The user's requested changes and higher-priority instructions still apply.
+
+Compare the draft with the source before returning it. Find the sentence where the author feels most strongly, then check whether the rewrite still carries the same conviction and meaning. Also check whether the author's distinctive humor or self-criticism survived. Restore the substance and energy where they have been diluted, without copying expressions merely to imitate a voice.
+
+## Keep experience anchored to its source
+
+First-person writing can only claim events, actions, feelings, opinions, or sensory details supplied by the actual speaker or established in the source. Plausibility and permission to rewrite do not authorize invented memories. Changing a detail into a hypothetical does not help when the surrounding first-person narration still implies it happened to the author.
+
+Before returning a draft, trace each first-person claim and concrete scene to the source. Remove unsupported details, keep the language general, or clearly frame a hypothetical as invented and separate from the person's experience. Ask for missing details when they are essential to the requested piece. Creative fiction explicitly requested by the user is different; don't present fiction as reporting or personal testimony.
+
+For example, a source saying someone practiced a language for years does not establish that they visited a café, hesitated at a counter, or ordered a meal. The rewrite can discuss the difference between practicing on an app and speaking aloud without claiming those events occurred.
+
 ## Move from the tangible to the meaningful
 
 Begin with a concrete observation when it helps the reader enter the subject, then follow its consequences. One product feature can shape a daily habit; an artistic choice can bring an emotion into focus; a financial decision can alter the rhythm of a household. Show how the connection works instead of announcing that something is “life-changing” or “powerful.”
