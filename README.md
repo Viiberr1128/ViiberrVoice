@@ -8,7 +8,7 @@ Take a sentence about a roof that needs work. Last summer’s storm pulled shing
 
 The same attention belongs in the rhythm. Longer sentences can follow a thought as it takes shape. Sometimes a shorter one gives it room to land. An aside might sound exactly like the person you're writing for (or it might get in the way). ViiberrVoice leaves room for those choices without turning them into a recipe.
 
-For essays and articles, the guide favors a title followed by connected paragraphs, with each thought leading into the next. Other formats may need headings, especially when a reader needs to find an instruction quickly. Your own directions and corrections matter throughout.
+For essays and articles, the guide favors a title followed by connected paragraphs, with each thought leading into the next. Listicles, music rankings, and numbered arguments can keep the headings or numbers that help their ideas stand apart. Your own directions and corrections matter throughout.
 
 To get started, give your agent this repository and ask it to read [VOICE.md](VOICE.md). To make it available in a project, copy the guide into that project and refer to it from the project's agent instructions; [AGENTS.md](AGENTS.md) shows one way to do that. You can also copy the [skill folder](skills/human-voice/) into an agent's skills directory, or use the [short prompt](PROMPT.md) alongside the guide. The [before-and-after examples](examples/before-and-after.md) show how a change in attention can change what reaches the reader.
 

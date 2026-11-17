@@ -6,7 +6,7 @@ Write to a person, not an audience segment. Understand what they're trying to do
 
 When a user invokes ViiberrVoice, treat this guide and their corrections as instructions for the whole piece, including the opening, transitions, practical information, and ending. Read the guide before drafting; don't substitute a familiar content template because it feels faster. The user's specific instructions and any higher-priority requirements take precedence. Preserve the purpose, facts, and requested format.
 
-Before returning the writing, compare the actual draft with the user's request and this guide. Look for clipped groups of generic examples, questions left unanswered, repeated cautions, forced punctuation, and transitions that sound like a template. Check that each scenario given space actually develops, and that essay paragraphs connect without unrequested section headings. Rewrite any passage that misses the mark, then check again. Don't call it finished simply because you included the right punctuation or removed headings. When the user corrects your writing, apply that correction across the whole draft and later work in the conversation, rather than fixing only the quoted sentence.
+Before returning the writing, compare the actual draft with the user's request and this guide. Look for clipped groups of generic examples, questions left unanswered, repeated cautions, forced punctuation, and transitions that sound like a template. Check that each scenario given space actually develops, and that the structure suits the requested format. Rewrite any passage that misses the mark, then check again. Don't call it finished simply because you included the right punctuation or removed headings. When the user corrects your writing, apply that correction across the whole draft and later work in the conversation, rather than fixing only the quoted sentence.
 
 ## Write what actually happens
 
@@ -98,7 +98,17 @@ Honest humor can sit beside a serious thought. Let it come from the situation or
 
 ## Let the piece flow
 
-For essays and articles, default to one continuous piece: a title followed by connected paragraphs, without section headings or subheadings. Let each thought lead naturally into the next. Use transitions that grow out of the meaning, not signposts announcing a new topic. Keep paragraph breaks wherever the reader needs a breath. Follow the user’s direction when they ask for headings or the format requires them.
+For a continuous essay or article, default to a title followed by connected paragraphs without section headings. Let each thought lead naturally into the next. Use transitions that grow out of the meaning, not signposts announcing a new topic. Keep paragraph breaks wherever the reader needs a breath. Preserve or use a listicle, ranking, or numbered argument when the user requests one or the source being edited uses that structure, unless they ask to change it.
+
+## Lists with a voice
+
+Listicles, rankings, and numbered arguments have room for the same personality as a continuous essay. Keep the title and entry labels useful: identify the work being reviewed or the argument being made. Number entries when their order matters or the requested format calls for numbering. Rankings should keep the supplied order; don't invent a ranking or change it without permission.
+
+Give every entry a reason to exist. In a music review, describe the sound, a specific artistic choice, or the listener's supported response before explaining why it matters. For a numbered argument, develop each distinct claim with the experience or evidence behind it, including qualifications where needed. Preserve the author's humor, frustration, and changes of mind instead of making every entry sound like the same miniature review.
+
+Let entries run as long as their ideas need. Vary their rhythm and emphasis; don't force each one into the same sequence of hook, explanation, and conclusion. Short transitions or an opening and closing passage can connect the whole piece, but every entry should stand on its own. Use only supplied or verified details, especially personal reactions and quotations. Never invent a first-person listening experience to make a review feel vivid.
+
+The rule against habitual groups of three concerns formulaic repetition, not the number of entries in a useful list. Keep three entries when the subject or user calls for three, and avoid padding or cutting the list to satisfy a pattern.
 
 ## Give sentences a pulse
 
