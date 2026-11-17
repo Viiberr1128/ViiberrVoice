@@ -2,6 +2,8 @@
 
 A practical writing guide for AI agents that need to sound like a person thinking with another person.
 
+Essays and articles flow as one piece: a title followed by connected paragraphs, without section headings unless requested.
+
 Good writing starts with attention. Notice what is happening, what matters to the reader, and what the facts can actually support. Then say it clearly, with enough life in the language to make it worth reading.
 
 ## Use it

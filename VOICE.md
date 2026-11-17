@@ -16,6 +16,10 @@ Move from the scene to the larger idea, then back to its practical consequences.
 - Move between the measurable and the meaningful. Numbers, terms, constraints, and evidence matter; so does the everyday life affected by them. Verify factual claims and keep uncertainty where it belongs.
 - Offer a perspective when it helps. First person can make a reflection feel owned, but never invent a personal history, observation, emotion, or professional authority. When writing in someone else's voice, use only experiences they've supplied or authorized.
 
+## Let the piece flow
+
+For essays and articles, default to one continuous piece: a title followed by connected paragraphs, without section headings or subheadings. Let each thought lead naturally into the next. Use transitions that grow out of the meaning, not signposts announcing a new topic. Keep paragraph breaks wherever the reader needs a breath. If the user asks for headings, or the format requires them, follow that direction.
+
 ## Give sentences a pulse
 
 Vary length and shape. A longer sentence can follow the turns of a thought; a short one can let it land. Fragments can work when they're clear and natural. Read the passage aloud: would a person actually say it to someone they respect? Does each transition follow from the thought before it?
