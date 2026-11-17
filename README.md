@@ -1,4 +1,4 @@
-# Human Voice
+# ViiberrVoice
 
 A practical writing guide for AI agents that need to sound like a person thinking with another person.
 
