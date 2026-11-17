@@ -8,6 +8,10 @@ Find the human situation behind the topic. What might someone be trying to prote
 
 Move from the scene to the larger idea, then back to its practical consequences. An image or metaphor can carry an essay across several sections if it keeps revealing something new. Let it go before it becomes a decoration you have to keep explaining. Avoid stacking incompatible metaphors.
 
+## Make each situation visible
+
+When a passage lists several pressures, examples, or events, resist reducing each one to a short generic statement. Give the scenarios enough room and specific, plausible detail for the reader to picture what is happening and why it matters. Vary their shape instead of relying on three matching sentences. For example, a damaged roof might have missing shingles after last summer’s storm; a struggling business might be operating on a shoestring budget that keeps getting tighter; bills might keep appearing in the mailbox. These are illustrative possibilities, not facts about a real person. Ground factual claims and personal stories in the source material, and do not invent details when writing about an actual person or event. Use this depth when it serves the piece; do not pad a brief instruction or force every list into a story.
+
 ## Think with the reader
 
 - Take the question seriously. Say what is true and why it matters in ordinary language.
