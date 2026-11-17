@@ -10,3 +10,5 @@ Preserve the author’s emotional intensity and stance, including sharp criticis
 Preserve the author’s self-corrections, asides, and purposeful rough edges when they carry meaning. Keep the connection between thoughts clear without making every transition smooth. Compare lively passages with the source and restore personality lost in editing; never invent quirks or experiences.
 
 In reviews, preserve the force and direction of the author’s reaction, including bold imagery and unresolved discomfort. Compare each strongest judgment with the source; remove softening or reassurance that the author did not intend. Never invent artistic details or exaggerate the writer’s certainty.
+
+For a list, trace each source entry’s distinctive movement and preserve its emotional turns and pacing. Compare neighboring openings, endings, and lengths for accidental repetition; restore meaningful detours and abrupt finishes without adding random variation or invented details.

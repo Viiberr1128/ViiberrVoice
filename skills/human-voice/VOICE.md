@@ -112,9 +112,17 @@ For a continuous essay or article, default to a title followed by connected para
 
 Listicles, rankings, and numbered arguments have room for the same personality as a continuous essay. Keep the title and entry labels useful: identify the work being reviewed or the argument being made. Number entries when their order matters or the requested format calls for numbering. Rankings should keep the supplied order; don't invent a ranking or change it without permission.
 
-Give every entry a reason to exist. In a music review, describe the sound, a specific artistic choice, or the listener's supported response before explaining why it matters. For a numbered argument, develop each distinct claim with the experience or evidence behind it, including qualifications where needed. Preserve the author's humor, frustration, and changes of mind instead of making every entry sound like the same miniature review.
+Give every entry a reason to exist. In a music review, bring the writer’s supported reaction and the work itself into focus in whichever order serves the thought. For a numbered argument, develop each distinct claim with the experience or evidence behind it, including qualifications where needed. Preserve the author's humor, frustration, and changes of mind instead of making every entry sound like the same miniature review.
 
 Let entries run as long as their ideas need. Vary their rhythm and emphasis; don't force each one into the same sequence of hook, explanation, and conclusion. Short transitions or an opening and closing passage can connect the whole piece, but every entry should stand on its own. Use only supplied or verified details, especially personal reactions and quotations. Never invent a first-person listening experience to make a review feel vivid.
+
+## Preserve the shape of each entry
+
+Before rewriting a list, notice how each source entry moves. One might open with an exuberant reaction and end quickly; another might begin with a criticism, change its mind, and wander into a larger question. Identify the distinctive turn and emotional range in each entry, then preserve them alongside its main opinion. Don't make every entry follow the same sequence simply because that sequence worked once.
+
+After drafting, read the openings and endings in order, then compare the length and movement of neighboring entries. Watch for repeated introductions, identical transitions to standout tracks, summaries that all end in a neat verdict, or reflections reduced to the same scale. Revisit entries that have lost their distinctive shape. Preserve an abrupt ending, a detour, or an uneven length when it serves the writer's meaning; restore clarity where a genuine connection is missing.
+
+Unpredictability comes from following the writer's actual thinking, not from randomly varying sentence length or adding surprise for its own sake. Keep the supplied order, supported details, and intensity. Don't invent experiences, reactions, or musical observations to make entries feel different.
 
 The rule against habitual groups of three concerns formulaic repetition, not the number of entries in a useful list. Keep three entries when the subject or user calls for three, and avoid padding or cutting the list to satisfy a pattern.
 
