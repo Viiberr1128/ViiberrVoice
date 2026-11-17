@@ -22,3 +22,5 @@ Preserve the author’s anger, ridicule, suspicion, and pointed challenges where
 Preserve the author’s original humor, target, and timing where the task permits; don’t substitute invented jokes. Place accurate attribution near the claim in the writer’s voice. Keep estimates and speculation labeled, and never imply independent verification that did not happen.
 
 Avoid formulaic hypothetical openings where someone does X and an immediate Y follows, especially when the consequence implies a vague threat. Use specific, supported cause and effect when the subject calls for it.
+
+Before returning, inspect each scene, indefinite actor, vague action, and claim of urgency or outcome for purpose and support. Remove unsupported details; distinguish clearly labeled illustrations from real events. Check generic feature lists and interchangeable endings, and apply corrections throughout. Read SPECIFICITY.md when a scene or hypothetical is involved.

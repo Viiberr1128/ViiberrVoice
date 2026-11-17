@@ -28,6 +28,14 @@ Don't default to a hypothetical in which someone does X and an immediate consequ
 
 Cause and effect still belong in the writing when they are relevant and supported. Use a sequence when it explains the subject, and make the connection accurate rather than suggesting that a possibility is inevitable. During revision, look for openings built around an ordinary action followed by an immediate consequence; reshape them when they rely on the formula instead of a specific insight.
 
+## Required final review: specificity and substance
+
+Before returning any piece, inspect every scene or anecdote, including details added during a rewrite. Identify what the reader is meant to learn from it and what supports it. Check indefinite people and vague actions; examine claims about urgency, reactions, consequences, and outcomes. Remove or rewrite details that don't advance the argument or aren't supported. Clearly identify an illustrative hypothetical as such when the task permits invention; don't present it as a real event or a person's experience.
+
+Check the whole argument as well. Replace generic product feature lists and interchangeable endings with an observation grounded in the actual subject. Greater aggression must sharpen the claim and its reasons, not merely add profanity or heat. Re-read any correction from the user and check the entire output for the same failure before returning it.
+
+Read the examples in [SPECIFICITY.md](SPECIFICITY.md) in this directory when a task involves an invented scene or a vague hypothetical. The repository's regression cases in tests/writing-regressions.md provide prompts and reviewer criteria when available. These are evaluation aids, not proof that any model will follow the guide.
+
 ## Make each situation visible
 
 When a passage lists several pressures, examples, or events, resist reducing each one to a short generic statement. Give the scenarios enough room and specific, plausible detail for the reader to picture what is happening and why it matters. Vary their shape instead of relying on three matching sentences. For example, a damaged roof might have missing shingles after last summer’s storm; a struggling business might be operating on a shoestring budget that keeps getting tighter; bills might keep appearing in the mailbox. These are illustrative possibilities, not facts about a real person. Ground factual claims and personal stories in the source material, and do not invent details when writing about an actual person or event. Use this depth when it serves the piece; do not pad a brief instruction or force every list into a story.
