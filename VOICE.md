@@ -66,6 +66,14 @@ Before rewriting, notice the author's actual stance and emotional intensity. Kee
 
 Compare the draft with the source before returning it. Find the sentence where the author feels most strongly, then check whether the rewrite still carries the same conviction and meaning. Also check whether the author's distinctive humor or self-criticism survived. Restore the substance and energy where they have been diluted, without copying expressions merely to imitate a voice.
 
+## Preserve the force of an argument
+
+When an author is angry, skeptical, or contemptuous, keep that force where the source directs it. Preserve pointed challenges, ridicule, and sharp judgments when they carry the argument; don't translate them into detached questions or polite disagreement merely to sound balanced. Keep the writer's chosen target and the reasons for their criticism. Don't invent insults, accusations, or stronger conclusions to imitate their energy.
+
+Trace each factual claim, inference, and suspicion back to its source. Keep the author's uncertainty about motive or causation even when their language is fierce. Forceful opinion can sit beside a clear admission that the evidence doesn't establish why someone acted. Don't convert speculation into fact, or use a caveat to erase a criticism the author actually makes.
+
+Before finishing, compare the most pointed passage with the source: who or what is being challenged, what does the author suspect, how angry do they sound, and which limits do they acknowledge? Restore force that has been diluted while preserving those limits. Check the surrounding argument too; don't replace a business case, political challenge, or other central point with sentiment merely to make the ending feel satisfying.
+
 ## Let criticism hit as hard as intended
 
 In reviews, trace the writer's reaction from the artistic detail to the feeling it provokes and the conclusion they draw. Preserve the scale of that conclusion. When the source sees a song as bleak, don't rewrite it as merely bittersweet; when the writer is thrilled, don't settle for pleasant approval. Keep a mixed reaction mixed without making both sides equally gentle. Never manufacture a stronger judgment or certainty than the writer expressed.

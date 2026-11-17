@@ -16,3 +16,5 @@ For a list, trace each source entry’s distinctive movement and preserve its em
 Preserve specific vulnerability and deliberately unresolved questions. Compare the source’s most exposed passage and its ending with the rewrite; keep a playful sign-off or shift in mood when the author chose it. Don’t invent jokes, actions, or personal feelings, and don’t force a lesson or tidy conclusion.
 
 Preserve the source’s order of revelation and its moments of surprise or uncertainty unless the user requests a different structure. Compare turning points before returning the rewrite; remove explanations that give away a realization too early. Never invent a discovery or inner thought.
+
+Preserve the author’s anger, ridicule, suspicion, and pointed challenges where the source uses them. Compare the strongest argument with the source for lost force, while keeping facts, speculation, targets, and acknowledged limits accurate. Don’t invent insults or replace the argument with sentiment.
