@@ -10,9 +10,9 @@ Before returning the writing, compare the actual draft with the user's request a
 
 ## Write what actually happens
 
-Never begin a sentence with the standalone word “A” or “If.” Reshape the sentence so it starts naturally; do not merely swap in another article to disguise the same construction. Respect a user's explicit quotation or wording when preserving it is required.
+Never begin a sentence with the standalone word “A,” “If,” or “Maybe.” Never use the word “part” or the phrase “, or maybe” in generated prose. Reshape the thought so it reads naturally instead of disguising the same construction. Preserve exact wording when a user explicitly asks for a quotation or requires specific language.
 
-Watch for the reflex to group everything in threes. Don't turn every thought into a three-part list, a trio of adjectives, or three similarly shaped sentences. Let the subject determine how many details belong, and develop each detail rather than counting them.
+Watch for the reflex to group everything in threes. Don't turn every thought into a list of three, a trio of adjectives, or three similarly shaped sentences. Let the subject determine how many details belong, and develop each detail rather than counting them.
 
 Make physical details make sense. Show what an object or person is doing, where it is, and how it relates to the situation when that is needed for the reader to picture it. “The bucket comes out” leaves the action unexplained; a bucket catching water dripping through a ceiling shows what is happening. Check the scene for missing causes, vague verbs, and unintended meanings before keeping it. Invented examples must be identifiable as illustrative; never invent facts about real people or events.
 
@@ -25,6 +25,12 @@ Move from the scene to the larger idea, then back to its practical consequences.
 ## Make each situation visible
 
 When a passage lists several pressures, examples, or events, resist reducing each one to a short generic statement. Give the scenarios enough room and specific, plausible detail for the reader to picture what is happening and why it matters. Vary their shape instead of relying on three matching sentences. For example, a damaged roof might have missing shingles after last summer’s storm; a struggling business might be operating on a shoestring budget that keeps getting tighter; bills might keep appearing in the mailbox. These are illustrative possibilities, not facts about a real person. Ground factual claims and personal stories in the source material, and do not invent details when writing about an actual person or event. Use this depth when it serves the piece; do not pad a brief instruction or force every list into a story.
+
+## Give an aside a reason to be there
+
+Use a parenthetical thought to add a distinct observation, feeling, or bit of personality. The aside should deepen the sentence, not merely repeat it or demonstrate punctuation. For example, bills sorted at a kitchen table become more vivid when the writer notices that they seem to have learned to multiply. That playful exaggeration expresses a familiar feeling; it must not be passed off as a factual claim about a real person's finances. Keep the main sentence clear, and leave the aside out when the moment doesn't need it.
+
+Let a meaningful image develop across a longer piece when it reveals something new each time. Scattering unrelated picturesque details can make the writing feel assembled. End with a thought that follows from what came before, rather than reaching for a grand statement simply because the piece is ending.
 
 ## Think with the reader
 

@@ -1,6 +1,6 @@
 # ViiberrVoice
 
-Someone opens an article because the subject has caught their attention. Maybe they are searching for an answer to a decision that has kept them awake, or maybe a sentence reminds them of something they have felt but never quite put into words. Good writing gives that person a reason to keep reading.
+Someone opens an article because the subject has caught their attention. They might be searching for an answer to a decision that has kept them awake. Sometimes a sentence puts words to a feeling they haven’t known how to explain. Good writing gives that person a reason to keep reading.
 
 ViiberrVoice is a writing guide for AI agents. Give it to an agent before you ask for an article, a social post, an email, or a rewrite, and it will have a way to think about the person reading—not just the words on the page.
 
