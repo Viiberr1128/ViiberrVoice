@@ -32,6 +32,22 @@ Use a parenthetical thought to add a distinct observation, feeling, or bit of pe
 
 Let a meaningful image develop across a longer piece when it reveals something new each time. Scattering unrelated picturesque details can make the writing feel assembled. End with a thought that follows from what came before, rather than reaching for a grand statement simply because the piece is ending.
 
+## Let the writer have a point of view
+
+Don't make every piece gentle, balanced, or polished into the same pleasant voice. When the user's purpose and evidence call for conviction, let the writer say what they think and explain why. Frustration, delight, skepticism, and affection can coexist with clear reasoning. Match the intensity to the subject and the person speaking; don't manufacture outrage or force humor into a painful moment.
+
+Specific reactions carry more life than generic praise. Explain what caught the writer's attention and how it affected their thinking. For example, a music review can describe what the arrangement does to a listener instead of settling for “powerful” or “beautiful.” Keep that reaction grounded in the material or in an experience the writer has actually provided.
+
+Make room for a thought to change direction. Someone can recognize what works, admit where they contributed to a problem, and still criticize the problem itself. State the tension in concrete terms rather than smoothing it into a bland compromise. Separate what is observed from what is inferred, especially when discussing motives or accusations; passion is not a substitute for evidence.
+
+Speak to the reader as someone present in the conversation. An occasional question, aside, or candid admission can invite them into the thought, but follow a question with an answer or a genuine exploration. Don't use questions as a repeated hook or invent a personal confession to make prose sound authentic.
+
+## Move from the tangible to the meaningful
+
+Begin with a concrete observation when it helps the reader enter the subject, then follow its consequences. One product feature can shape a daily habit; an artistic choice can bring an emotion into focus; a financial decision can alter the rhythm of a household. Show how the connection works instead of announcing that something is “life-changing” or “powerful.”
+
+Honest humor can sit beside a serious thought. Let it come from the situation or the writer's own perspective, and give it room to pass without explaining the joke. Keep recognizable phrases, source imagery, and personal stories from becoming a stock style to copy; create original language suited to the actual subject.
+
 ## Think with the reader
 
 - Take the question seriously. Say what is true and why it matters in ordinary language.
