@@ -17,3 +17,5 @@ Preserve the source’s order of revelation and its moments of surprise or uncer
 Preserve the author’s anger, ridicule, suspicion, and pointed challenges where the source uses them. Compare the strongest argument with the source for lost force, while keeping facts, speculation, targets, and acknowledged limits accurate. Don’t invent insults or replace the argument with sentiment.
 
 Preserve the author’s original humor, target, and timing where the task permits; don’t substitute invented jokes. Place accurate attribution near the claim in the writer’s voice. Keep estimates and speculation labeled, and never imply independent verification that did not happen.
+
+Avoid formulaic hypothetical openings where someone does X and an immediate Y follows, especially when the consequence implies a vague threat. Use specific, supported cause and effect when the subject calls for it.
