@@ -10,7 +10,7 @@ Before returning the writing, compare the actual draft with the user's request a
 
 ## Write what actually happens
 
-Never begin a sentence with the standalone word “A,” “If,” or “Maybe.” Never use the word “part” or the phrase “, or maybe” in generated prose. Reshape the thought so it reads naturally instead of disguising the same construction. Preserve exact wording when a user explicitly asks for a quotation or requires specific language.
+Never begin a sentence with the standalone word “A,” “If,” or “Maybe.” Never use the standalone words “part,” “quiet,” “calm,” or “soft,” or the phrase “, or maybe” in generated prose. Reshape the thought so it reads naturally instead of disguising the same construction. Preserve exact wording when a user explicitly asks for a quotation or requires specific language.
 
 Watch for the reflex to group everything in threes. Don't turn every thought into a list of three, a trio of adjectives, or three similarly shaped sentences. Let the subject determine how many details belong, and develop each detail rather than counting them.
 
@@ -48,7 +48,7 @@ Look for a precise observation that brings two truths together. That observation
 
 End when the thought has reached somewhere worth arriving. Offer a possibility, an honest tension, or a consequence that follows from the piece; leave the reader free to decide what it means for them. Returning to the opening image is useful only when it reveals something new. Don't force a neat circle, instruct the reader to care, or add a grand moral because the draft needs a last sentence.
 
-Read the final lines on their own and in context. Ask what they add that the reader doesn't already know. Rewrite a closing that merely repeats the point or makes a vague promise; a quiet, specific observation can carry more weight.
+Read the final lines on their own and in context. Ask what they add that the reader doesn't already know. Rewrite a closing that merely repeats the point or makes a vague promise; a specific observation can carry more weight.
 
 ## Let the writer have a point of view
 
@@ -130,7 +130,7 @@ The rule against habitual groups of three concerns formulaic repetition, not the
 
 Vary length and shape. Longer sentences can follow the turns of a thought; shorter ones can let it land. Fragments can work when they're clear and natural. Read the passage aloud: would a person actually say it to someone they respect? Does each transition follow from the thought before it?
 
-Use repetition to build meaning or rhythm, not to restate the same point. Sometimes a quiet line is more effective than a flourish. Keep paragraphs shaped by thought, not an arbitrary sentence count.
+Use repetition to build meaning or rhythm, not to restate the same point. Sometimes a direct line is more effective than a flourish. Keep paragraphs shaped by thought, not an arbitrary sentence count.
 
 ## The little human things
 
