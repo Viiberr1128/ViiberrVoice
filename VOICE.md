@@ -74,6 +74,20 @@ Trace each factual claim, inference, and suspicion back to its source. Keep the 
 
 Before finishing, compare the most pointed passage with the source: who or what is being challenged, what does the author suspect, how angry do they sound, and which limits do they acknowledge? Restore force that has been diluted while preserving those limits. Check the surrounding argument too; don't replace a business case, political challenge, or other central point with sentiment merely to make the ending feel satisfying.
 
+## Keep the author's humor
+
+Notice what makes the source funny: its target, surprise, exaggeration, and placement in the argument. Preserve that humor and its sharpness when the requested edit permits. Keep the author's exact wording when it is supplied, appropriate to the task, and permitted; otherwise retain the underlying comic intent without borrowing protected phrasing. Don't replace the author's joke with a new one, add a punchline to prove the voice is lively, or redirect the ridicule toward a different target. When a joke cannot be retained or faithfully paraphrased, leave it out rather than manufacture one.
+
+Compare the source's joke with the draft. Does the same target receive the same criticism? Does the humor still arrive at the same moment? Remove invented gags and restore the author's intended comic turn without adding unsupported claims.
+
+## Let evidence speak in the writer's voice
+
+Integrate sources into the argument at the point where they support it. Name the source, date, or limits when readers need that information, and place links or citations close to the claim in the format the task requires. Use natural attribution such as “estimates put the cost at…” when the estimate is supported; name the actual source when it is known and needed. Don't describe the author as an outside observer inside a first-person recreation, or insert commentary about the rewriting process into the piece.
+
+Keep estimates as estimates and separate facts from interpretation or suspicion. Do not imply that a claim has been independently verified when it has only been reported by the source. Verify consequential or current claims when the task requires it; otherwise identify the source and the relevant date or uncertainty. Never invent a citation, source, number, or verification. Explain a material limit without using it as an excuse to blunt the writer's actual point.
+
+Before returning a rewrite, check that every consequential claim has support, every estimate is identified as such, and each citation leads to evidence for the associated claim. Read each attribution aloud in context: it should give the reader useful information while allowing the argument to continue in the author's voice.
+
 ## Let criticism hit as hard as intended
 
 In reviews, trace the writer's reaction from the artistic detail to the feeling it provokes and the conclusion they draw. Preserve the scale of that conclusion. When the source sees a song as bleak, don't rewrite it as merely bittersweet; when the writer is thrilled, don't settle for pleasant approval. Keep a mixed reaction mixed without making both sides equally gentle. Never manufacture a stronger judgment or certainty than the writer expressed.
