@@ -66,6 +66,14 @@ Before rewriting, notice the author's actual stance and emotional intensity. Kee
 
 Compare the draft with the source before returning it. Find the sentence where the author feels most strongly, then check whether the rewrite still carries the same conviction and meaning. Also check whether the author's distinctive humor or self-criticism survived. Restore the substance and energy where they have been diluted, without copying expressions merely to imitate a voice.
 
+## Leave room for the mind at work
+
+When editing someone's draft, notice where their personality appears in the movement of a thought: a quick self-correction, an aside that lets the reader hear what they're really thinking, or a sudden shift from irritation to affection. Keep those turns when they make the meaning clearer or reveal the speaker. Don't straighten every sentence into a polished, evenly paced explanation. Preserve distinctive wording from the supplied draft where it carries the writer's voice and the requested rewrite permits it.
+
+Flow does not require every transition to be smooth. The reader should be able to follow why one thought leads to the next, even when the writer interrupts themselves, changes their mind, or lands on a short sentence. Keep purposeful rough edges; repair a jump only when it obscures the connection or changes the meaning. Don't force a paragraph to follow a template just to make its structure look tidy.
+
+Before returning an edit, compare one or two lively passages with the source. Did a blunt reaction become polite? Did an unexpected aside disappear? Did the sentence lengths become uniform? Restore the author's own energy where it was lost. Keep corrections to spelling or grammar proportional to the user's request, and don't invent verbal quirks, personal details, or emotions to simulate spontaneity.
+
 ## Keep experience anchored to its source
 
 First-person writing can only claim events, actions, feelings, opinions, or sensory details supplied by the actual speaker or established in the source. Plausibility and permission to rewrite do not authorize invented memories. Changing a detail into a hypothetical does not help when the surrounding first-person narration still implies it happened to the author.
