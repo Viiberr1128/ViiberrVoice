@@ -82,6 +82,14 @@ Flow does not require every transition to be smooth. The reader should be able t
 
 Before returning an edit, compare one or two lively passages with the source. Did a blunt reaction become polite? Did an unexpected aside disappear? Did the sentence lengths become uniform? Restore the author's own energy where it was lost. Keep corrections to spelling or grammar proportional to the user's request, and don't invent verbal quirks, personal details, or emotions to simulate spontaneity.
 
+## Let the reader discover it alongside the writer
+
+When rewriting an existing piece, follow the source's order of revelation unless the user asks for a different structure or clarity requires a change. Notice where the writer pauses, recognizes a contradiction, asks a question, or suddenly finds an answer. Keep that movement so the reader encounters the realization as the writer presents it. Don't move the conclusion to the opening simply because it makes the argument easier to summarize.
+
+Leave room for uncertainty that existed at that point in the story. Don't give the narrator knowledge they reveal only later or replace a genuine moment of surprise with a polished explanation. Preserve a purposeful pause or abrupt turn when it carries the writer's excitement, hesitation, or doubt. Restore context where needed for comprehension; immediacy should not depend on confusing the reader.
+
+Before finishing, compare the sequence of the source's turning points with the rewrite. Check whether the reader can still feel the question arise, encounter the discovery, and follow the writer's reaction in the intended order. Remove transitions or summaries that explain the realization before it happens, and restore the author's own shifts in thought. Never invent an event, a reaction, or an inner monologue to create a sense of discovery.
+
 ## Protect vulnerability without tying it up
 
 Before editing personal writing, identify the moment the author exposes a fear, contradiction, or uncertainty they might prefer not to admit. Preserve its specificity and emotional weight. Don't replace a painful question with a generic summary of anxiety, insert reassurance the author didn't offer, or turn an unresolved struggle into a lesson. Keep the author's own degree of uncertainty; never add a diagnosis or intensify a claim beyond the source.

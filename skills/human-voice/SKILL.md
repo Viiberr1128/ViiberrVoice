@@ -14,3 +14,5 @@ In reviews, preserve the force and direction of the author’s reaction, includi
 For a list, trace each source entry’s distinctive movement and preserve its emotional turns and pacing. Compare neighboring openings, endings, and lengths for accidental repetition; restore meaningful detours and abrupt finishes without adding random variation or invented details.
 
 Preserve specific vulnerability and deliberately unresolved questions. Compare the source’s most exposed passage and its ending with the rewrite; keep a playful sign-off or shift in mood when the author chose it. Don’t invent jokes, actions, or personal feelings, and don’t force a lesson or tidy conclusion.
+
+Preserve the source’s order of revelation and its moments of surprise or uncertainty unless the user requests a different structure. Compare turning points before returning the rewrite; remove explanations that give away a realization too early. Never invent a discovery or inner thought.
