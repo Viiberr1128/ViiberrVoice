@@ -4,9 +4,9 @@ These examples are invented to show how the principles work. Details in illustra
 
 ## From abstraction to a real tradeoff
 
-**Before:** A flexible schedule can improve work-life balance and support employee well-being.
+**Before:** Flexible scheduling can improve work-life balance and support employee well-being.
 
-**After:** A flexible schedule can make room for a school pickup or a doctor's appointment. It can also blur the end of the workday if everyone is expected to be available at all hours. The policy matters; so does the way people are allowed to use it.
+**After:** Flexible scheduling can make room for a school pickup or a doctor's appointment. It can also blur the end of the workday if everyone is expected to be available at all hours. The policy matters; so does the way people are allowed to use it.
 
 The second version gives the reader something to picture and names a real tension. In an actual policy, confirm the details before presenting them as fact.
 
@@ -38,6 +38,6 @@ The second version has a voice because it has a clear thought. It doesn't need e
 
 **Before:** The roof needs work. The business is struggling. The bills keep coming.
 
-**After:** A storm pulled shingles from the roof last summer, and now a bucket comes out whenever the rain gets heavy. The business is running on a shoestring budget that somehow keeps getting tighter. And every trip to the mailbox seems to bring another bill asking to be paid before the next check comes in.
+**After:** Last summer’s storm pulled shingles from the roof, and now a bucket sits beneath the ceiling, catching rainwater that has worked its way through the insulation and drywall. The business is running on a shoestring budget that somehow keeps getting tighter. And every trip to the mailbox seems to bring another bill asking to be paid before the next check comes in.
 
 The details make each pressure visible and give the sentences room to breathe. This is an imagined scenario; don't present its details as facts about an actual person without support.

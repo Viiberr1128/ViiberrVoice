@@ -1,12 +1,12 @@
 # ViiberrVoice
 
-A person sits down to read something because they want to know, feel, or understand more than they did a moment ago. Good writing gives them a reason to stay. It notices the details that matter, follows a thought far enough to make it worth sharing, and leaves room for the reader to bring their own life to it.
+Someone opens an article because the subject has caught their attention. Maybe they are searching for an answer to a decision that has kept them awake, or maybe a sentence reminds them of something they have felt but never quite put into words. Good writing gives that person a reason to keep reading.
 
 ViiberrVoice is a writing guide for AI agents. Give it to an agent before you ask for an article, a social post, an email, or a rewrite, and it will have a way to think about the person reading—not just the words on the page.
 
-Take a sentence about a roof that needs work. You could leave it there, or you could describe the shingles a storm pulled loose last summer and the bucket that comes out whenever the rain gets heavy. Suddenly there's a reason the repair can't wait. Details like that can make an imagined situation tangible; when you're writing about a real person or event, use details you actually know.
+Take a sentence about a roof that needs work. Last summer’s storm pulled shingles loose, and now a bucket sits beneath the ceiling, catching the rainwater that has made its way through the insulation and drywall. Suddenly there’s a reason the repair can’t wait. Details like that can make an imagined situation tangible; when you're writing about a real person or event, use details you actually know.
 
-The same attention belongs in the rhythm. A longer sentence can follow a thought as it takes shape, and a shorter one can give it somewhere to land. An aside might sound exactly like the person you're writing for (or it might get in the way). ViiberrVoice leaves room for those choices without turning them into a recipe.
+The same attention belongs in the rhythm. Longer sentences can follow a thought as it takes shape. Sometimes a shorter one gives it room to land. An aside might sound exactly like the person you're writing for (or it might get in the way). ViiberrVoice leaves room for those choices without turning them into a recipe.
 
 For essays and articles, the guide favors a title followed by connected paragraphs, with each thought leading into the next. If a different format needs headings or a reader needs to find an instruction quickly, the writing can take that shape. Your own directions and corrections matter throughout.
 
