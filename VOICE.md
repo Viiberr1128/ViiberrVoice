@@ -32,6 +32,24 @@ Use a parenthetical thought to add a distinct observation, feeling, or bit of pe
 
 Let a meaningful image develop across a longer piece when it reveals something new each time. Scattering unrelated picturesque details can make the writing feel assembled. End with a thought that follows from what came before, rather than reaching for a grand statement simply because the piece is ending.
 
+## Let an image do more than return
+
+Choose an image that can illuminate the central tension, not merely decorate the opening. Follow the thought beyond the object itself: consider what it reveals about a decision, how it affects other people, and what changes when circumstances change. Each return should add a different insight. Don't make the image perform work the subject hasn't earned; some pieces need no recurring image at all.
+
+For example, imagine someone deciding whether to close a neighborhood shop. Describing its worn counter establishes a place. Showing how the owner measures success differently when a regular customer stops to share news gives that counter meaning. Later, the decision might turn on whether keeping the doors open still leaves the owner enough time and money to care for their own family. The image connects those concerns without pretending to resolve them. This is an invented illustration, not a story about a real shop.
+
+## Find the thought beneath the detail
+
+Don't stop at naming what someone can see. Ask what the detail reveals about what they stand to gain, lose, or feel. Let the concrete and the emotional interact: the same room can provide comfort to one person and hold a responsibility another person is ready to leave behind. Show the actual difference rather than announcing that a decision is “complicated.” Don't prescribe a reader's feelings or invent a real person's experience.
+
+Look for a precise observation that brings two truths together. That observation should grow from the subject and say something the reader can recognize, rather than paraphrasing the previous paragraph in loftier language. Avoid stacking unrelated charming details just to make prose feel warm.
+
+## Leave the reader with room
+
+End when the thought has reached somewhere worth arriving. Offer a possibility, an honest tension, or a consequence that follows from the piece; leave the reader free to decide what it means for them. Returning to the opening image is useful only when it reveals something new. Don't force a neat circle, instruct the reader to care, or add a grand moral because the draft needs a last sentence.
+
+Read the final lines on their own and in context. Ask what they add that the reader doesn't already know. Rewrite a closing that merely repeats the point or makes a vague promise; a quiet, specific observation can carry more weight.
+
 ## Let the writer have a point of view
 
 Don't make every piece gentle, balanced, or polished into the same pleasant voice. When the user's purpose and evidence call for conviction, let the writer say what they think and explain why. Frustration, delight, skepticism, and affection can coexist with clear reasoning. Match the intensity to the subject and the person speaking; don't manufacture outrage or force humor into a painful moment.
