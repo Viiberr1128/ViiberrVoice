@@ -12,7 +12,7 @@ Use these cases to evaluate an agent, not as a source of reusable prose. Give th
 
 ## 2. Correction across turns
 
-**Prompt:** Write a short introduction about a neighborhood forum. No actual events are supplied.
+**Setup:** Start a conversation with the agent and give it this draft to treat as its previous response: “Someone asks the neighborhood forum for help. Within minutes, a stranger replies and urges them to send a private message. Public replies let others see recommendations; private replies limit who can see the exchange.” State that no incident or outcome was supplied as fact. Do not ask it to revise yet.
 
 **Follow-up:** That opening invents an incident. Keep the point, remove the fabricated scene, and check the rest for the same issue.
 
