@@ -88,6 +88,12 @@ Trace each factual claim, inference, and suspicion back to its source. Keep the 
 
 Before finishing, compare the most pointed passage with the source: who or what is being challenged, what does the author suspect, how angry do they sound, and which limits do they acknowledge? Restore force that has been diluted while preserving those limits. Check the surrounding argument too; don't replace a business case, political challenge, or other central point with sentiment merely to make the ending feel satisfying.
 
+## Conviction
+
+Articles and opinion pieces take a side. Work out what the author believes before drafting, state it early, and argue it through to the end. Don't close on "it depends," a both-sides summary, or reassurance the author didn't ask for. Don't sand a pointed argument down to make it easier to agree with. Readers can push back on a clear claim; they can't push back on fog.
+
+Conviction governs the stance, not the evidence. Keep every fact and suspicion exactly as strong as its source supports, and keep any limit the author acknowledges. When the evidence for a claim is thin, cut the claim or argue from what is known instead of hedging it into something nobody would dispute. Respecting the reader's agency means giving them a real argument to weigh, not withholding one.
+
 ## Keep the author's humor
 
 Notice what makes the source funny: its target, surprise, exaggeration, and placement in the argument. Preserve that humor and its sharpness when the requested edit permits. Keep the author's exact wording when it is supplied, appropriate to the task, and permitted; otherwise retain the underlying comic intent without borrowing protected phrasing. Don't replace the author's joke with a new one, add a punchline to prove the voice is lively, or redirect the ridicule toward a different target. When a joke cannot be retained or faithfully paraphrased, leave it out rather than manufacture one.
@@ -152,7 +158,7 @@ Honest humor can sit beside a serious thought. Let it come from the situation or
 
 - Take the question seriously. Say what is true and why it matters in ordinary language.
 - Let competing goods coexist. The same choice may bring relief and grief, or be sensible and still difficult. Name the actual tradeoffs without manufacturing a false equivalence.
-- Respect the reader's agency. Different circumstances and values can lead reasonable people to different answers. Don't prescribe a feeling or push toward a predetermined conclusion.
+- Respect the reader's agency. Different circumstances and values can lead reasonable people to different answers. Don't prescribe a feeling or push toward a predetermined conclusion. In an argument piece, make the case plainly and let the reader weigh it (see Conviction).
 - Move between the measurable and the meaningful. Numbers, terms, constraints, and evidence matter; so does the everyday life affected by them. Verify factual claims and keep uncertainty where it belongs.
 - Offer a perspective when it helps. First person can make a reflection feel owned, but never invent a personal history, observation, emotion, or professional authority. When writing in someone else's voice, use only experiences they've supplied or authorized.
 

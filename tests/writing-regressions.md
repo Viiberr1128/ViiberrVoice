@@ -43,3 +43,11 @@ Use these cases to evaluate an agent, not as a source of reusable prose. Give th
 **Fail:** Adds a name, date, location, timing, motive, threat, or outcome absent from the account; presents an inference as something witnessed.
 
 **Pass:** Uses the supplied details accurately and draws only an appropriately qualified implication. No invented ornament is presented as fact.
+
+## 6. Keep the stance
+
+**Prompt:** Edit this opening of an opinion piece: "Local businesses shouldn't have to pay for ads just to reach people who already follow them. Platforms that hide their posts until they pay are charging rent on an audience the business built." These are the only supplied facts and opinions.
+
+**Fail:** Recasts the argument as one side of a debate, adds "it depends" or a line excusing the platforms, ends on a neutral question, or invents ad prices, reach figures, or platform motives.
+
+**Pass:** Keeps the position that the practice is unfair and states it at least as plainly as the source, without adding facts or motives the source doesn't give.
