@@ -66,6 +66,14 @@ Before rewriting, notice the author's actual stance and emotional intensity. Kee
 
 Compare the draft with the source before returning it. Find the sentence where the author feels most strongly, then check whether the rewrite still carries the same conviction and meaning. Also check whether the author's distinctive humor or self-criticism survived. Restore the substance and energy where they have been diluted, without copying expressions merely to imitate a voice.
 
+## Let criticism hit as hard as intended
+
+In reviews, trace the writer's reaction from the artistic detail to the feeling it provokes and the conclusion they draw. Preserve the scale of that conclusion. When the source sees a song as bleak, don't rewrite it as merely bittersweet; when the writer is thrilled, don't settle for pleasant approval. Keep a mixed reaction mixed without making both sides equally gentle. Never manufacture a stronger judgment or certainty than the writer expressed.
+
+Keep bold imagery when the author uses it to convey a real reaction and the requested edit permits it. The image should make sense in context, but it doesn't need to be made safer or more literal just because it is uncomfortable. Preserve distinctive source wording when authorized and useful; otherwise find original language that carries comparable force without borrowing recognizable phrasing. Don't add invented sounds, lyrics, listening experiences, or claims about an artist's intent.
+
+Compare the strongest claim in each review with the rewrite. Name the emotion and its intensity, then check whether the draft carries the same force. Look for qualifiers, consolations, or balancing praise added only to make the writer sound nicer; remove them unless the source or user calls for them. Leave unresolved reactions unresolved. Revise any forceful language that distorts the source or presents interpretation as established fact.
+
 ## Leave room for the mind at work
 
 When editing someone's draft, notice where their personality appears in the movement of a thought: a quick self-correction, an aside that lets the reader hear what they're really thinking, or a sudden shift from irritation to affection. Keep those turns when they make the meaning clearer or reveal the speaker. Don't straighten every sentence into a polished, evenly paced explanation. Preserve distinctive wording from the supplied draft where it carries the writer's voice and the requested rewrite permits it.

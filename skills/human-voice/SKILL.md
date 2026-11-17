@@ -8,3 +8,5 @@ Read VOICE.md in this skill directory before drafting and apply it throughout. C
 Preserve the author’s emotional intensity and stance, including sharp criticism and humor. Compare the strongest source passage with the draft for dilution. Trace first-person claims and concrete scenes to supplied material; remove unsupported details or clearly separate invented hypotheticals from the author’s experience.
 
 Preserve the author’s self-corrections, asides, and purposeful rough edges when they carry meaning. Keep the connection between thoughts clear without making every transition smooth. Compare lively passages with the source and restore personality lost in editing; never invent quirks or experiences.
+
+In reviews, preserve the force and direction of the author’s reaction, including bold imagery and unresolved discomfort. Compare each strongest judgment with the source; remove softening or reassurance that the author did not intend. Never invent artistic details or exaggerate the writer’s certainty.

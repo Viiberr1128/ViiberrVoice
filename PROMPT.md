@@ -5,3 +5,5 @@ Read VOICE.md before writing and apply it throughout the piece. Before returning
 Preserve the author’s emotional intensity and stance; do not soften criticism into polite vagueness. Trace first-person claims and concrete scenes to supplied material. Remove unsupported details or clearly separate an invented hypothetical from the author’s experience.
 
 Preserve the author’s self-corrections, asides, and purposeful rough edges when they carry meaning. Keep the connection between thoughts clear without making every transition smooth. Compare lively passages with the source and restore personality lost in editing; never invent quirks or experiences.
+
+In reviews, preserve the force and direction of the author’s reaction, including bold imagery and unresolved discomfort. Compare each strongest judgment with the source; remove softening or reassurance that the author did not intend. Never invent artistic details or exaggerate the writer’s certainty.
